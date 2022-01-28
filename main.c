@@ -1,9 +1,9 @@
-/*This clinic systems is done and has two modes(Admin mode, User mode).
+/*This clinic system has two modes(Admin mode, User mode).
  *
- *The systems asks the user to choose which mode he wants to enter.
+ *The system asks the user to choose which mode he wants to enter.
  *
  *1- Amin mode:
-				*The systems asks the admin to do a sercet thing, which is entering 1234 and press enter.
+				*The system asks the admin to do a sercet thing, which is entering 1234 and press enter.
 				*in this mode the admin has 6-options:
 				*
 				*
